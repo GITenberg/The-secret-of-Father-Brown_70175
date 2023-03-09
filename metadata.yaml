@@ -1,0 +1,32 @@
+_repo: The-secret-of-Father-Brown_70175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70175'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006152701
+pgterms:marc905: 20230104030407chesterton
+pgterms:marc906: '1927'
+pgterms:marc907: gb
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bCassell and Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The secret of Father Brown
+url: http://www.gutenberg.org/ebooks/70175
