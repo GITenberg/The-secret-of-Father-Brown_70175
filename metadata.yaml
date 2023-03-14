@@ -1,5 +1,8 @@
 _repo: The-secret-of-Father-Brown_70175
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70175-h/images/cover.jpg
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70175#The-secret-of-Father-Brown
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70175'
